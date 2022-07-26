@@ -39,7 +39,7 @@
   ![My SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 - ⚙️ &nbsp;
-  ![GitLab](https://img.shields.io/badge/-Git-333333?style=flat&logo=gitlab)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 - 🔧 &nbsp;

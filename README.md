@@ -52,7 +52,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anna-gutsul-55a62b179/" target="_blank"><img src="https://img.shields.io/badge/-Anna%20Gutsul-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anna-tolchinsky/" target="_blank"><img src="https://img.shields.io/badge/-Anna%20Tolchinsky-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anyagutsul@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-anyagutsul@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
